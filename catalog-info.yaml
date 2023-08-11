@@ -3,11 +3,9 @@ kind: Component
 metadata:
   name: worker-template
   description: ""
-  annotations: []
 spec:
   type: other
   lifecycle: deprecated
   domain: unknown
   system: unknown
   owner: unknown
-relations: []
