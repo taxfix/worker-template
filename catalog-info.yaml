@@ -4,7 +4,7 @@ metadata:
   name: worker-template
   description: ""
 spec:
-  type: other
+  type: service-worker
   lifecycle: deprecated
   domain: unknown
   system: unknown
